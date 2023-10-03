@@ -149,6 +149,7 @@ color: #404bbf;
 }
 
 .section-one {
+  margin: 0 auto;
   max-width: 1440px;
   background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/sectionone.jpg) ;
   padding: 188px 0;
@@ -730,7 +731,7 @@ color: #404bbf;
 
 .check-box-label {
   font-size: 12px;
-  line-height: 1.17;
+  line-height: 1.17; 
   letter-spacing: 0.04em;
   color: #8e8f99;
 }
@@ -754,11 +755,11 @@ color: #404bbf;
   fill: #F4F4FD;
 }
 
-.is-open {
+/* .is-open {
   opacity: 1;
   visibility: inherit;
   pointer-events:all;
-}
+} */
 
 
 
