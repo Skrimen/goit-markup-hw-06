@@ -755,11 +755,11 @@ color: #404bbf;
   fill: #F4F4FD;
 }
 
-/* .is-open {
+.is-open {
   opacity: 1;
   visibility: inherit;
   pointer-events:all;
-} */
+}
 
 
 
