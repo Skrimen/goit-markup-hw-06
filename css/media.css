@@ -109,4 +109,27 @@
     display: flex;
   }
 }
+
+@media screen and (min-width: 768px) {
+  .media-section-two {
+    max-width: 1158px;
+  }
+
+  .icons {
+    display: flex;
+  }
+  
+  .lists-section-two {
+    width: 264px;
+    height: 224px;
+  }
+
+  .title {
+    font-size: 20px;
+  }
+
+  .paragraph {
+    width: 264px;
+  }
+}
 /* section-two */
