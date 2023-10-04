@@ -31,13 +31,6 @@
     flex-wrap: wrap;
     row-gap: 64px;
   }
-  .second-heading {
-  
-  }
-
-  .list-section-tree {
-  
-  }
 }
 
 @media screen and (min-width: 1158px) {
@@ -67,9 +60,6 @@
     width: 288px;
   }
   
-  .lists-section-two {
-  
-  }
   
   .title {
     text-align: center;
@@ -82,9 +72,6 @@
     max-width: 768px;
   }
 
-  .icons {
-    
-  }
 
   .list-section-two {
     /* display: flex;
@@ -110,7 +97,7 @@
   }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1158px) {
   .media-section-two {
     max-width: 1158px;
   }
