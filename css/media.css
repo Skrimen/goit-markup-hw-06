@@ -197,3 +197,14 @@
 }
 
 /* section-one */
+
+/* header */
+@media screen and (min-width: 320px) {
+  .header-container {
+  max-width: 320px;
+  }
+
+
+}
+
+/* header */
