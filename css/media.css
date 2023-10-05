@@ -202,9 +202,61 @@
 @media screen and (min-width: 320px) {
   .header-container {
   max-width: 320px;
+  height: 56px;
   }
 
+  .menu-one {
+    display: none;
+  }
 
+  .address-one {
+    display: none;
+  }
+
+  .address-one-burger {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
+
+@media screen and (min-width: 768px) {
+  .header-container {
+  max-width: 768px;
+  
+  }
+
+  .menu-one {
+    display: flex;
+  }
+
+  .address-one {
+    display: flex;
+  }
+
+  .address-one-burger {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1158px) {
+  .header-container {
+  max-width: 1158px;
+  
+  }
+
+  /* .menu-one {
+    display: flex;
+  }
+
+  .address-one {
+    display: flex;
+  }
+
+  .address-one-burger {
+    display: none;
+  } */
+}
+
 
 /* header */
