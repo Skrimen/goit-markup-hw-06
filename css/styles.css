@@ -740,6 +740,7 @@ color: #404bbf;
 }
 
 .check-box-label {
+  
   font-size: 12px;
   line-height: 1.17; 
   letter-spacing: 0.04em;
@@ -758,6 +759,8 @@ color: #404bbf;
   align-items: center;
   fill: transparent;
 }
+
+.check-menu {}
 
 .visually-hidden:checked + .check-box-label > .check-box-span {
   background-color: #404bbf;
